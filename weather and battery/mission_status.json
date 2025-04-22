@@ -1,0 +1,9 @@
+{
+    "mission_risque": "oui",
+    "temps_estimé": "00:18:30",
+    "temps_restant_de_la_batterie": "00:12:00",
+    "distance": "4.200",
+    "niveau_batterie": "45%",
+    "mission_status": "Batterie insuffisante. Temps de vol max : 00:12:00, mission estimée : 00:18:30."
+}
+

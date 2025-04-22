@@ -1,0 +1,74 @@
+{
+    "mavic1": {
+        "name": "mavic1",
+        "max_wind_speed": 10,
+        "max_clouds": 60,
+        "min_temperature": 0,
+        "max_temperature": 35,
+        "max_humidity": 80,
+        "rain_sensitive": true
+    },
+    "mavic2": {
+        "name": "mavic2",
+        "max_wind_speed": 15,
+        "max_clouds": 70,
+        "min_temperature": -5,
+        "max_temperature": 40,
+        "max_humidity": 85,
+        "rain_sensitive": true
+    },
+    "mavic3": {
+        "name": "mavic3",
+        "max_wind_speed": 20,
+        "max_clouds": 80,
+        "min_temperature": -10,
+        "max_temperature": 45,
+        "max_humidity": 90,
+        "rain_sensitive": true
+    },
+    "anafi": {
+        "name": "anafi",
+        "max_wind_speed": 12,
+        "max_clouds": 70,
+        "min_temperature": 0,
+        "max_temperature": 35,
+        "max_humidity": 80,
+        "rain_sensitive": true
+    },
+    "phantom4": {
+        "name": "phantom4",
+        "max_wind_speed": 18,
+        "max_clouds": 75,
+        "min_temperature": -5,
+        "max_temperature": 40,
+        "max_humidity": 85,
+        "rain_sensitive": true
+    },
+    "phantom3": {
+        "name": "phantom3",
+        "max_wind_speed": 18,
+        "max_clouds": 75,
+        "min_temperature": -5,
+        "max_temperature": 40,
+        "max_humidity": 85,
+        "rain_sensitive": true
+    },
+    "phantom5": {
+        "name": "phantom5",
+        "max_wind_speed": 18,
+        "max_clouds": 75,
+        "min_temperature": -5,
+        "max_temperature": 40,
+        "max_humidity": 85,
+        "rain_sensitive": true
+    },
+    "phantom8": {
+        "name": "phantom8",
+        "max_wind_speed": 18,
+        "max_clouds": 75,
+        "min_temperature": -5,
+        "max_temperature": 40,
+        "max_humidity": 85,
+        "rain_sensitive": true
+    }
+}

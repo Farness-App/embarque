@@ -1,0 +1,42 @@
+{
+    "Parrot": {
+        "name": "Parrot",
+        "max_wind_speed": 20,
+        "max_clouds": 75,
+        "min_temperature": -10,
+        "max_temperature": 40,
+        "max_humidity": 80,
+        "max_flight_time": 32,
+        "rain_sensitive": true
+    },
+    "DJI Mini 3": {
+        "name": "DJI Mini 3",
+        "max_wind_speed": 12,
+        "max_clouds": 90,
+        "min_temperature": 0,
+        "max_temperature": 35,
+        "max_humidity": 85,
+        "max_flight_time": 30,
+        "rain_sensitive": false
+    },
+    "Parrot Anafi": {
+        "name": "Parrot Anafi",
+        "max_wind_speed": 14,
+        "max_clouds": 75,
+        "min_temperature": -10,
+        "max_temperature": 40,
+        "max_humidity": 80,
+        "max_flight_time": 25,
+        "rain_sensitive": true
+    },
+    "phantom5": {
+        "name": "phantom5",
+        "max_wind_speed": 14,
+        "max_clouds": 75,
+        "min_temperature": -10,
+        "max_temperature": 40,
+        "max_humidity": 80,
+        "max_flight_time": 25,
+        "rain_sensitive": true
+    }
+}

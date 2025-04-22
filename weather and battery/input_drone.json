@@ -1,0 +1,15 @@
+{
+    "new_drones": [
+        {
+            "name": "phantom5",
+            "max_wind_speed": 14,
+            "max_clouds": 75,
+            "min_temperature": -10,
+            "max_temperature": 40,
+            "max_humidity": 80,
+            "max_flight_time": 25,
+            "rain_sensitive": true
+        }
+    ]
+}
+

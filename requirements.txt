@@ -1,0 +1,17 @@
+#voice_mission
+SpeechRecognition==3.8.1
+opencv-python>=4.5.0
+
+#grid_mission
+Shapely>=2.0.0
+numpy>=1.22.0
+opencv-python>=4.5.0
+
+#keyboard_mission
+opencv-python>=4.5.0
+
+#weather and battery 
+requests>=2.25.0
+geopy>=2.0.0
+
+
